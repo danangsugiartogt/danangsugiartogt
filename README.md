@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danangsugiartogt
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning backend application using NodeJs
-- 💞️ I’m looking to collaborate on MERN Project
+- 👀 I’m interested in Game Development
+- 🎮 I'm currently working at Maleo as Game Developer
 
 <!---
 danangsugiartogt/danangsugiartogt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
